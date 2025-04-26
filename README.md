@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Hampus!<br>I'm passionate about building creative solutions through code. I enjoy working on projects related to web development, data science, software design, and I'm always excited to learn new technologies and improve my skills.<br>Currently, I'm focused on completing my degree in web programming, where i am building a website for a record store as my thesis.<br>Feel free to check out my repositories or connect with me!
+👋 Hi, I'm Hampus!<br>I'm passionate about building creative solutions through code. I enjoy working on projects related to web development, data science, software design, and I'm always excited to learn new technologies and improve my skills.<br>Currently, I'm focused on completing my degree in web programming, where i am building a website for a record store as my thesis.<br>Feel free to check out my repositories or connect with me!<br> Im mostly interested in music related projects, which is a big part of my portfolio!
 
 
 ## 🌐 Socials:
